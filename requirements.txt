@@ -1,0 +1,8 @@
+simplejson
+pysolr
+elasticsearch
+jupyter
+notebook
+pandas
+PyPDF2
+python-docx
