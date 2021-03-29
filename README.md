@@ -7,6 +7,7 @@ From official definitions:
 
 The question is, between the two, which one is best suitable for search operations which can be embended into a website and other applications? Answering this question requires clear and extensive understanding of how both platform operate. Let's take a look into both:
 
-## Solr  
+## Solr Notebooks  
 
-### Setting up sandbox|playground environment  
+- [01-solr-techproducts.ipynb](01-solr-techproducts.ipynb) ▶️ Techproducts demo from [solr quickstart tutorial](https://solr.apache.org/guide/8_8/solr-tutorial.html)  
+- [02-solr-films.ipynb](02-solr-films.ipynb) ▶️ Films demo from [solr quickstart tutorial](https://solr.apache.org/guide/8_8/solr-tutorial.html)  
