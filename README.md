@@ -9,5 +9,8 @@ The question is, between the two, which one is best suitable for search operatio
 
 ## Solr Notebooks  
 
-- [01-solr-techproducts.ipynb](01-solr-techproducts.ipynb) ▶️ Techproducts demo from [solr quickstart tutorial](https://solr.apache.org/guide/8_8/solr-tutorial.html)  
-- [02-solr-films.ipynb](02-solr-films.ipynb) ▶️ Films demo from [solr quickstart tutorial](https://solr.apache.org/guide/8_8/solr-tutorial.html)  
+- [01-solr-techproducts.ipynb](01-solr-techproducts.ipynb) 👉 Techproducts demo from [solr quickstart tutorial](https://solr.apache.org/guide/8_8/solr-tutorial.html)  
+- [02-solr-films.ipynb](02-solr-films.ipynb) 👉 Films demo from [solr quickstart tutorial](https://solr.apache.org/guide/8_8/solr-tutorial.html)  
+- [03-indexing-custom-docs.ipynb](03-indexing-custom-docs.ipynb) 👉 Elaborate guide of how to index custom documents. Composed using details adapted from [Solr Reference Guide](https://solr.apache.org/guide/8_8/)  
+
+## ElasticSearch Notebooks
