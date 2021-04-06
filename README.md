@@ -1,4 +1,4 @@
-# Experimenting Search Operations with Solr and Elasticsearch  
+# Experimenting Search Operations with Solr, Elasticsearch and MeiliSearch
 
 From official definitions:  
 
@@ -14,3 +14,6 @@ The question is, between the two, which one is best suitable for search operatio
 - [03-indexing-custom-docs.ipynb](03-indexing-custom-docs.ipynb) 👉 Elaborate guide of how to index custom documents. Composed using details adapted from [Solr Reference Guide](https://solr.apache.org/guide/8_8/)  
 
 ## ElasticSearch Notebooks
+
+
+## MeiliSearch Notebooks 
