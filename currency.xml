@@ -1,0 +1,9 @@
+<currencyConfig version="1.0">
+  <rates>
+    <!-- Updated from http://www.exchangerate.com/ at 2011-09-27 -->
+    <rate from="KES" to="USD" rate="0.00912" />
+    <rate from="KES" to="EUR" rate="0.0078" />
+    <!-- Asymmetrical rates -->
+    <rate from="EUR" to="USD" rate="1.17" />
+  </rates>
+</currencyConfig>
