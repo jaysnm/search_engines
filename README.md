@@ -12,7 +12,10 @@ The question is, between the three, which one is best suitable for search operat
 
 - [01-solr-techproducts.ipynb](01-solr-techproducts.ipynb) 👉 Techproducts demo from [solr quickstart tutorial](https://solr.apache.org/guide/8_8/solr-tutorial.html)  
 - [02-solr-films.ipynb](02-solr-films.ipynb) 👉 Films demo from [solr quickstart tutorial](https://solr.apache.org/guide/8_8/solr-tutorial.html)  
-- [03-indexing-custom-docs.ipynb](03-indexing-custom-docs.ipynb) 👉 Elaborate guide of how to index custom documents. Composed using details adapted from [Solr Reference Guide](https://solr.apache.org/guide/8_8/)  
+- [03-schema-api.ipyn](03-schema-api.ipynb) 👉 Solr schema definition using REST API  
+- [04-indexing-custom-docs.ipynb](04-indexing-custom-docs.ipynb) 👉 Elaborate guide of how to index custom documents. Composed using details adapted from [Solr Reference Guide](https://solr.apache.org/guide/8_8/)  
+- [05-search-api.ipynb](05-search-api.ipynb) 👉 A continuation of `04-indexing-custom-docs.ipynb` with focus on search operations  
+- [06-sophisticated-indexing-and-search.ipynb](06-sophisticated-indexing-and-search.ipynb) 👉 Fine tune query results using Solr `analyzers`, `tokenizers` and `filters`.  
 
 ## ElasticSearch Notebooks  
 
